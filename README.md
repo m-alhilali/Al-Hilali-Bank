@@ -1,6 +1,7 @@
 <p align="center">
   <img src="MyImage/1782919845453.png" alt="Al-Hilali Bank Banner" width="100%">
 </p>
+
 ## 🏦 About The Project
 **Al-Hilali Bank** is an advanced desktop application built as a comprehensive capstone project to demonstrate enterprise-level architectural patterns and production-ready data management. Developed utilizing C# and SQL Server, the system focuses heavily on robust logic, security, and scalable execution rather than simple syntax memorization.
 
